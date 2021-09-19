@@ -1,0 +1,9 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["Ralph Goestenmeier <r14r@via-internet.de>"]
+edition = "2018"
+
+[dependencies]
+ferris-says = "0.1"
+
